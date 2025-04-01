@@ -10,6 +10,7 @@ namespace Git_Kraken_Training
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("vetka2 vtoraya popitka");
             Console.WriteLine(Console.ReadLine());
 
 
