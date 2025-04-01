@@ -63,19 +63,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="obj\x86\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="bin\x86\Debug\Git_Kraken_Training.exe.config" />
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\x86\Debug\Git_Kraken_Training.csproj.AssemblyReference.cache" />
+    <None Include="obj\x86\Debug\Git_Kraken_Training.csproj.CoreCompileInputs.cache" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\x86\Debug\Git_Kraken_Training.exe" />
     <Content Include="bin\x86\Debug\Git_Kraken_Training.pdb" />
+    <Content Include="obj\x86\Debug\Git_Kraken_Training.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Debug\Git_Kraken_Training.exe" />
+    <Content Include="obj\x86\Debug\Git_Kraken_Training.pdb" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\Release\" />
+    <Folder Include="obj\x86\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
