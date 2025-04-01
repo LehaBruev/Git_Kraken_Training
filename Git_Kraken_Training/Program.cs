@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace Git_Kraken_Training
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("vetka2 vtoraya popitka");
+            Console.WriteLine("Кракен ветка 1 на ветке 2 = ответвление");
             Console.WriteLine(Console.ReadLine());
 
 
