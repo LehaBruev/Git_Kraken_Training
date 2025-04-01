@@ -14,6 +14,10 @@ namespace Git_Kraken_Training
             Console.WriteLine(Console.ReadLine());
 
 
+            Console.WriteLine(1);
+            Console.ReadLine();
+
+
         }
     }
 }
