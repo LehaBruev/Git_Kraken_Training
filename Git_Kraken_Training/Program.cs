@@ -10,7 +10,7 @@ namespace Git_Kraken_Training
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Vetka_2 start");
+            Console.WriteLine("Master start");
             Console.WriteLine(Console.ReadLine());
 
 
