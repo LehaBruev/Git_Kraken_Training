@@ -1,0 +1,7 @@
+E:\c_sharp projects\Git_Kraken_Training\Git_Kraken_Training\bin\Debug\Git_Kraken_Training.exe.config
+E:\c_sharp projects\Git_Kraken_Training\Git_Kraken_Training\bin\Debug\Git_Kraken_Training.exe
+E:\c_sharp projects\Git_Kraken_Training\Git_Kraken_Training\bin\Debug\Git_Kraken_Training.pdb
+E:\c_sharp projects\Git_Kraken_Training\Git_Kraken_Training\obj\Debug\Git_Kraken_Training.csproj.AssemblyReference.cache
+E:\c_sharp projects\Git_Kraken_Training\Git_Kraken_Training\obj\Debug\Git_Kraken_Training.csproj.CoreCompileInputs.cache
+E:\c_sharp projects\Git_Kraken_Training\Git_Kraken_Training\obj\Debug\Git_Kraken_Training.exe
+E:\c_sharp projects\Git_Kraken_Training\Git_Kraken_Training\obj\Debug\Git_Kraken_Training.pdb
